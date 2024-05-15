@@ -44,7 +44,7 @@
 - Demonstrated proficiency in data analysis, model development, evaluation, and visualization techniques, highlighting expertise in leveraging machine learning for practical solutions like crop recommendation.
 
 
-### HealthPrognosis: Smart Healthcare Prediction System
+### [HealthPrognosis: Smart Healthcare Prediction System](https://github.com/Premaramkarthik/HealthPrognosis-Smart-Healthcare-Prediction-System)
 
 - Developed a smart healthcare prediction system using machine learning
 - For various conditions like heart failure, kidney disease, diabetes, liver disease, stroke, and breast cancer.
