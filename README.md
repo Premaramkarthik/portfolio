@@ -53,4 +53,4 @@
 ## Contact Information
 
 - **Email**: premaramkarthik@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/karthik-premaram)
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/karthik-premaram)
