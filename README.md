@@ -33,7 +33,7 @@
 - Implemented a user-friendly interface with Streamlit for real-time tweet classification.
 
 
-### Crop Recommendation System
+### [Crop Recommendation System](https://github.com/Premaramkarthik/crop-recommendation)
 
 - Developed a crop recommendation system utilizing machine learning algorithms to suggest suitable crops based on environmental conditions.
 - Utilized historical data containing environmental factors such as temperature, humidity, pH, and rainfall, along with corresponding crop yields.
