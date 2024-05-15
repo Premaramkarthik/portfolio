@@ -1,4 +1,4 @@
-# Data Scientist
+# Passionate Student of Machine Learning 
 
 ### Programming Languages: Python, R programming, MySQL
 ### Data Analysis: Numpy, Pandas, Matplotlib, Seaborn, Statistical Analysis,
@@ -11,35 +11,40 @@
 - Matriculation | Manjeera high school 
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**AIML Engineer Intern | Smart Knower (_Nov 2021 -Dec 2021_)**
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Built a Fashion Clothes Classifier using Fashion MNIST Dataset and ANN.
+- Developed machine learning model for the iBean project in collaboration with Makerere AI lab and NaCRRI, Uganda.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Pest Classification Using Convolutional Neural Network
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Conducted a thorough evaluation of deep learning models (ResNet50, ResNet-101v4, MobileNetv2, YOLOv8, EfficientNet) for pest identification in agriculture using the Agricultural pest image dataset.
+- Implemented early stopping during training (except YOLOv8) to prevent overfitting and enhance generalization.
+- Comprehensive performance evaluation using metrics like confusion matrices and classification reports.
+- Developed a mobile-friendly Flask web application with API endpoints for real-time pest identification.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Hate Speech Detection using nltk and Decision Tree 
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- Developed a Hate Speech Detection system using Decision Tree Classifier on Twitter data.
+- Cleaned and preprocessed text data using NLTK and regular expressions, and converted it into numerical vectors.
+- Implemented a user-friendly interface with Streamlit for real-time tweet classification.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+###  crop recommendatio system
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Developed a crop recommendation system utilizing machine learning algorithms to suggest suitable crops based on environmental conditions.
+- Utilized historical data containing environmental factors such as temperature, humidity, pH, and rainfall, along with corresponding crop yields.
+- Divided the dataset into features (environmental factors) and the target variable (crop labels).
+- Trained various machine learning models including Decision Trees, Naive Bayes, SVM, Logistic Regression, Random Forest, and XGBoost.
+- Evaluated model performance using accuracy scores and classification reports to assess precision, recall, and F1-score for each crop class.
+- Compared the performance of different models through visualizations such as bar plots.
+- Demonstrated proficiency in data analysis, model development, evaluation, and visualization techniques, highlighting expertise in leveraging machine learning for practical solutions like crop recommendation.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+### HealthPrognosis: Smart Healthcare Prediction System
+
+- Developed a smart healthcare prediction system using machine learning
+- For various conditions like heart failure, kidney disease, diabetes, liver disease, stroke, and breast cancer.
+- Deployed prediction models using Flask, creating a user-friendly interface with RESTful API endpoints.
+
