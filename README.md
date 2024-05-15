@@ -24,14 +24,14 @@
 - Comprehensive performance evaluation using metrics like confusion matrices and classification reports.
 - Developed a mobile-friendly Flask web application with API endpoints for real-time pest identification.
 
-### Hate Speech Detection using nltk and Decision Tree 
+### Hate Speech Detection Using nltk and Decision Tree 
 
 - Developed a Hate Speech Detection system using Decision Tree Classifier on Twitter data.
 - Cleaned and preprocessed text data using NLTK and regular expressions, and converted it into numerical vectors.
 - Implemented a user-friendly interface with Streamlit for real-time tweet classification.
 
 
-###  crop recommendatio system
+###  Crop Recommendatio System
 
 - Developed a crop recommendation system utilizing machine learning algorithms to suggest suitable crops based on environmental conditions.
 - Utilized historical data containing environmental factors such as temperature, humidity, pH, and rainfall, along with corresponding crop yields.
