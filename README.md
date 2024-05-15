@@ -19,7 +19,7 @@
 - Developed machine learning model for the iBean project in collaboration with Makerere AI lab and NaCRRI, Uganda.
 
 ## Projects
-### Pest Classification Using Convolutional Neural Network
+### [Pest Classification Using Convolutional Neural Network](https://drive.google.com/drive/folders/1UQuwOf3b5ce3lW_yO-SvfkjN0m9KdO4I?usp=sharing)
 
 - Conducted a thorough evaluation of deep learning models (ResNet50, ResNet-101v4, MobileNetv2, YOLOv8, EfficientNet) for pest identification in agriculture using the Agricultural pest image dataset.
 - Implemented early stopping during training (except YOLOv8) to prevent overfitting and enhance generalization.
