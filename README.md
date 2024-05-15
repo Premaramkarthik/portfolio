@@ -26,7 +26,7 @@
 - Comprehensive performance evaluation using metrics like confusion matrices and classification reports.
 - Developed a mobile-friendly Flask web application with API endpoints for real-time pest identification.
 
-### Hate Speech Detection Using nltk and Decision Tree 
+### [Hate Speech Detection Using nltk and Decision Tree](https://github.com/Premaramkarthik/Hate-Speech-Detection) 
 
 - Developed a Hate Speech Detection system using Decision Tree Classifier on Twitter data.
 - Cleaned and preprocessed text data using NLTK and regular expressions, and converted it into numerical vectors.
