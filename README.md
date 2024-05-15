@@ -50,7 +50,4 @@
 - For various conditions like heart failure, kidney disease, diabetes, liver disease, stroke, and breast cancer.
 - Deployed prediction models using Flask, creating a user-friendly interface with RESTful API endpoints.
 
-## Contact Information
 
-- **Email**: premaramkarthik@gmail.com
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/karthik-premaram)
