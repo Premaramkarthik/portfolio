@@ -1,17 +1,19 @@
-# Passionate Student of Machine Learning 
+# Machine Learning Enthusiast 
 
-### Programming Languages: Python, R programming, MySQL
-### Data Analysis: Numpy, Pandas, Matplotlib, Seaborn, Statistical Analysis,
-### Machine Learning: Scikit learn, Supervised learning, Unsupervised learning
-### Deep Learning: Tensorflow, Keras, Natural Language Processing, computer vision
+## Skills
+
+#### Programming Languages: Python, R programming, MySQL
+#### Data Analysis: Numpy, Pandas, Matplotlib, Seaborn, Statistical Analysis,
+#### Machine Learning: Scikit learn, Supervised learning, Unsupervised learning
+#### Deep Learning: Tensorflow, Keras, Natural Language Processing, computer vision
 
 ## Education
-- bachelor, artificial intelligence | Vidya Jyothi institute of technology 								   	
-- Polytechnic, mechanical engineering	| St mary’s Collage of Engineering and Technology 	 		
-- Matriculation | Manjeera high school 
+- Bachelor, Artificial Intelligence | Vidya Jyothi Institute of Technology 								   	
+- Polytechnic, Mechanical Engineering	| St. Mary’s College of Engineering and Technology 	 		
+- Matriculation | Manjeera High School 
 
 ## Work Experience
-**AIML Engineer Intern | Smart Knower (_Nov 2021 -Dec 2021_)**
+**AIML Engineer Intern | Smart Knower (_Nov 2021 - Dec 2021_)**
 
 - Built a Fashion Clothes Classifier using Fashion MNIST Dataset and ANN.
 - Developed machine learning model for the iBean project in collaboration with Makerere AI lab and NaCRRI, Uganda.
@@ -31,7 +33,7 @@
 - Implemented a user-friendly interface with Streamlit for real-time tweet classification.
 
 
-###  Crop Recommendatio System
+### Crop Recommendation System
 
 - Developed a crop recommendation system utilizing machine learning algorithms to suggest suitable crops based on environmental conditions.
 - Utilized historical data containing environmental factors such as temperature, humidity, pH, and rainfall, along with corresponding crop yields.
@@ -48,3 +50,7 @@
 - For various conditions like heart failure, kidney disease, diabetes, liver disease, stroke, and breast cancer.
 - Deployed prediction models using Flask, creating a user-friendly interface with RESTful API endpoints.
 
+## Contact Information
+
+- **Email**: premaramkarthik@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/karthik-premaram)
